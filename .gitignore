@@ -1,3 +1,4 @@
-.csv
-.config
-.init
+*.csv
+*.config
+*.init
+*.realm
